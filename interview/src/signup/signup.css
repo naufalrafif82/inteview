@@ -1,0 +1,24 @@
+.signup {
+    background-color: black;
+    /* float: right; */
+
+}
+
+.akun {
+    font-size: 20px;
+}
+
+.login {
+    text-decoration: none;
+    color: aqua;
+}
+
+.h1 {
+    /* text-align: left; */
+}
+
+.id {
+    color: rgba(155, 155, 155, 1);
+    margin-top: -10px;
+    font-size: 0.7rem;
+}
